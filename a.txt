@@ -11,3 +11,7 @@ Kode baris 6
 login 1
 login 2
 #############
+# Feature register customer#
+register 1
+register 2
+############################
