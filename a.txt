@@ -7,3 +7,7 @@ Kode baris 4
 Kode baris 5
 Kode baris 6
 #############
+# Feature register customer#
+register 1
+register 2
+############################
