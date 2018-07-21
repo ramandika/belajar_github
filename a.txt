@@ -1,0 +1,4 @@
+Kode baris 1
+Kode baris 2
+Kode baris 3
+Kode baris 4
